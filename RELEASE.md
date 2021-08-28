@@ -1,0 +1,1 @@
+* Adicionado botão para limpar cache
